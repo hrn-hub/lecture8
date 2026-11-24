@@ -7,6 +7,7 @@ int main(){
     }
 
     printf("%d",sum);
+    pirntf("%s","second commit");
 
     return 0;
 }
